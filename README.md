@@ -1,5 +1,6 @@
-# This repository provides a simple introduction to Matplotlib, a powerful Python library for creating data visualizations. 
-## *The examples cover fundamental plotting techniques to help beginners grasp the essentials.*
+# Matplot Lib Basics
+ This repository provides a simple introduction to Matplotlib, a powerful Python library for creating data visualizations. <br>
+#### the examples cover fundamental plotting techniques to help beginners grasp the essentials.
 
 ## Features<br>
 ### Line Plot: <br>
