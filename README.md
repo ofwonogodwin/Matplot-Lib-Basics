@@ -13,3 +13,4 @@ Explains creating vertical and horizontal bar charts.<br>
 Shows data distribution with histograms.<br>
 ### Pie Chart: <br>
 Guides on visualizing data proportions using pie charts.<br>
+##### To be continued this week
